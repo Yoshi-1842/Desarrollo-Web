@@ -1,0 +1,30 @@
+@font-face {
+    font-family: "Fuente italiana";
+    src: url("Fonts/ZenDots-Regular.ttf");
+
+     
+}
+
+
+
+
+@font-face {
+    font-family: "Fuente Turka";
+    src: url("Fonts/Oswald-VariableFont_wght.ttf");
+
+     
+}
+body{
+	
+	font-family:/*"Times New Roman",*/ Arial, Sans-serif, Helvetica;
+    color:#3c44b8;
+}
+
+h1{
+    font-family: "Fuente Turka";
+}
+
+
+h2{
+    font-family: "Fuente italiana";
+}

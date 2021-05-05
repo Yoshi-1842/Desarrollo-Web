@@ -1,0 +1,26 @@
+.uno { 
+
+    outline: dashed red;
+    outline-width: 10px;
+}
+
+.dos { outline-style: solid;
+    outline-width: solid;
+}
+
+
+.tres { border: 2px solid yellow;
+outline-style: solid;
+outline-color: invert;
+} 
+
+.cuatro { margin: 30px;
+    background: blue;
+    border: 1px solid black;
+    outline: 1px solid red;
+    outline-offset: 15px;
+} 
+
+.cinco contorno { outline-style: solid;
+    outline-color: #ff0000;
+}

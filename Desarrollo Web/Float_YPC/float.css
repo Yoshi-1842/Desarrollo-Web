@@ -1,0 +1,52 @@
+* {
+	padding: 0;
+	margin: 0;
+}
+
+body {
+	background: #f2f2f2;
+	font-family: Arial;
+
+}
+
+.cajapadre{
+	background: #d35fe2;
+	width: 700px;
+    overflow: hidden;
+
+	
+
+}
+
+.caja {
+
+	width: 200px;
+	color: rgb(255, 255, 255);
+	font-size: 38px;
+	height: 200px;
+	background: #15926d;
+	margin: 20px;
+}
+
+.uno {
+
+	float: left;
+}
+
+.dos {
+
+	float: right;
+}
+
+.tres {
+    float: inherit;
+}
+
+.cuatro {
+    float: right;
+    }
+    .cinco {
+
+        float: right;
+    }
+    

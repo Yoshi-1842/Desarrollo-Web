@@ -1,0 +1,39 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+table {
+    border-collapse: collapse;
+  }
+  
+body{
+    font-family: "Arial, sans-serif";
+    background-color: #e8e8e8;
+}
+.menu {
+
+	background: #26d310;
+	list-style: none;
+    width: 90%;
+	max-width: 1000px;
+    margin: 28px auto;
+	
+}
+
+
+.Menu li a{
+    color: rgb(202, 144, 18);
+    text-decoration:none;
+    padding: 20px;
+    display: block;
+
+}
+.Menu li{
+    text-align: center;
+    display: inline-block;
+}
+
+.Menu li a:hover{
+    background-color:#92861a;
+
+}

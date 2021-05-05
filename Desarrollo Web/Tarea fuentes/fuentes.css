@@ -1,0 +1,34 @@
+@font-face {
+    font-family: "Fuente Italiana";
+    src: url("Fonts/ZenDots-Regular.ttf");
+
+     
+}
+
+
+
+
+@font-face {
+    font-family: "Fuente Francesa";
+    src: url("Fonts/Oswald-VariableFont_wght.ttf");
+
+     
+}
+body{
+	
+	font-family:/*"Times New Roman",*/ Georgia, 'Times New Roman', Times, serif;
+    color:#3cb85b;                                                                                                                                                                                      
+}
+
+h1{
+    font-family: "Fuente Francesa";
+}
+
+
+h2{
+    font-family: "Fuente Italiana";
+}
+
+h3{
+    font-family: "Fuente Francesa";
+}

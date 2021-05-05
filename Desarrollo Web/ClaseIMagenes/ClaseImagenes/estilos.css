@@ -1,0 +1,18 @@
+body {
+	background-color: rgba(127, 143, 166, 0);
+}
+
+.fas {
+	color: green;
+	font-size: 40px;
+	transition: all 2s;
+}
+
+.fas:hover {
+	color: #000;
+	-moz-transform: scale(2.5) rotate(30deg) translateX(30px) translateY(30px) skewX(30deg) skewY(20deg);
+	-webkit-transform: scale(2.5) rotate(30deg) translateX(30px) translateY(30px) skewX(30deg) skewY(20deg);
+	-o-transform: scale(2.5) rotate(30deg) translateX(30px) translateY(30px) skewX(30deg) skewY(20deg);
+	-ms-transform: scale(2.5) rotate(30deg) translateX(30px) translateY(30px) skewX(30deg) skewY(20deg);
+	transform: scale(2.5) rotate(30deg) translateX(30px) translateY(30px) skewX(30deg) skewY(20deg);
+}
