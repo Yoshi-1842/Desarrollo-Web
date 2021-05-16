@@ -1,0 +1,56 @@
+body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 20px;
+}
+
+.ejemplo {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 15px;
+    }
+
+    .ejemplo h1{
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        text-align: center;
+    }
+    
+    .one {
+    border: 5px dotted rgb(98, 0, 255);
+    padding: 10px;
+    }
+    .two {
+    border: 5px dotted rgb(37, 228, 12);
+    padding: 10px;
+    }
+    .three {
+    border: 5px dotted rgb(224, 19, 19);
+    padding: 10px;
+    }
+    .four {
+    border: 5px dotted rgb(221, 20, 204);
+    padding: 10px;
+    }
+    .five {
+    border: 1px solid black;
+    text-align: center;
+    padding: 10px;
+    }
+    .six {
+    border: 5px dotted rgb(16, 235, 235);
+    padding: 10px;
+    }
+
+    .seven{
+        border: rgb(235, 221, 20) 5px dotted;
+        padding: 10px;
+    }
+
+    .eight{
+        border: 5px rgb(216, 19, 117) dotted;
+        padding: 10px;
+    }
+
+    .nine{
+        border: 5px rgb(114, 47, 21) dotted;
+        padding: 10px;
+    }
